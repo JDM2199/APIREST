@@ -12,3 +12,5 @@ require_once "modelo/clientes.modelo.php";
 
 $rutas = new controladorRutas();
 $rutas->inicio();
+
+?>

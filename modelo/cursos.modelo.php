@@ -12,3 +12,4 @@ class ModeloCursos{
         $stmt->null;
     }
 }
+?>

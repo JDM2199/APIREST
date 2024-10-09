@@ -4,3 +4,4 @@ class controladorRutas {
         include "rutas/rutas.php";
     }
 }
+?>
